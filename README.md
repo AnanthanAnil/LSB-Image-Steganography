@@ -111,6 +111,7 @@ It will decrypt the secret message from the image and store it in a newly create
 ./a.out -d stego_img.bmp decoded_file.txt
  ```
 (Note that the file format must match with that of the input secret file's format. Otherwise an error message appears)
+
 ** if you want the fule code search and find is secret.
 
 
