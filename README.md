@@ -112,7 +112,7 @@ It will decrypt the secret message from the image and store it in a newly create
  ```
 (Note that the file format must match with that of the input secret file's format. Otherwise an error message appears)
 
-** if you want the fule code search and find is secret.
+** if you want the full code search and find it's secret.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
